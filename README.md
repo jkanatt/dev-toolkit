@@ -10,3 +10,5 @@ PRs welcome!
 - Added feature 2 on 2026-06-06
 ## Update 3
 - Added feature 3 on 2026-06-06
+## Update 4
+- Added feature 4 on 2026-06-06
