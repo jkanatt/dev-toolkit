@@ -6,3 +6,5 @@ Open source developer tools and utilities.
 PRs welcome!
 ## Update 1
 - Added feature 1 on 2026-06-06
+## Update 2
+- Added feature 2 on 2026-06-06
